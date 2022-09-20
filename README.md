@@ -1,7 +1,9 @@
 # trgn_assignment3
 
 All scripts are kept in /scripts.
+
 Test cases are placed in /testplace/q1-3.
+
 Thank you in advance for the effort reviewing my code. --SQ 
 
 # extract_phonenum.py
