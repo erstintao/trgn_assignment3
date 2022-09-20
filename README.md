@@ -4,7 +4,7 @@ All scripts are kept in <code>/scripts</code>.
 
 Test cases are placed in <code>/testplace/q1-3</code>.
 
-Thank you in advance for the effort reviewing my code. --SQ 
+Thank you in advance for the time and effort reviewing my code. --SQ 
 
 # extract_phonenum.py
 
