@@ -33,7 +33,7 @@ and unzip it. It will also automatically clone test unit from https://github.com
 ## Known Issues
 There exists some gene id (such as 'ENSG00000235146') that do not appear in Homo_sapiens.GRCh37.75.gtf, but appear in unit/expres.anal.csv.
 
-This issue can be verified by doing a grep search <code>grep -rl 'ENSG00000283616' ./'</code> I'll keep look into this issue, perhaps I have downloaded a wrong database.
+This issue can be verified by doing a grep search <code>grep -rl 'ENSG00000283616' ./</code> I'll keep look into this issue, perhaps I have downloaded a wrong database.
 
 # histogram.py 
 
